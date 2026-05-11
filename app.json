@@ -16,7 +16,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Your WhatsApp session ID (REQUIRED)",
-      "value": "",
+      "value": "tct_fe47d200",
       "required": true
     },
     "PREFIX": {
