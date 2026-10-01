@@ -7,7 +7,7 @@
 [![GitHub version](https://img.shields.io/github/v/release/i-tct/tct?label=Latest%20Release&style=for-the-badge)](https://github.com/i-tct/tct/releases/latest)
 [![Donate](https://img.shields.io/badge/Donate-Support%20TCT-red?style=for-the-badge&logo=heart)](https://t-ct.org/donate/)
 
-<p><strong>A Fast WA Bot Built with Go</strong></p>
+<p><strong>A Fast WA Bot Powered by Rust</strong></p>
 
 </div>
 
@@ -31,7 +31,7 @@ Grab the newest version from the <a href="https://github.com/i-tct/tct/releases/
 
 It provides full control over your WhatsApp automation with:
 
-⚡ High-performance **pure Go engine**  
+⚡ High-performance **Rust engine**  
 🌍 **Multi-language support**  
 👥 **Advanced group management**  
 📊 Easy set usage **view dashboard**
