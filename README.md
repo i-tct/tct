@@ -4,7 +4,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/TheCarlTech)
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbCTviw8qIzlACm6Cy0t)
-[![GitHub version](https://img.shields.io/badge/GitHub%20Version-1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/i-tct/tct/releases/latest)
 [![Donate](https://img.shields.io/badge/Donate-Support%20TCT-red?style=for-the-badge&logo=heart)](https://t-ct.org/donate/)
 
 <p><strong>A Fast WA Bot Powered by Rust</strong></p>
