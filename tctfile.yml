@@ -110,7 +110,7 @@ default_welcome_images: &default_welcome_images
 # ----- Default Lock / Moderation System -----
 default_lock_system: &default_lock_system
   MAX_WARNS: 3
-  WARN_MESSAGE: "*⚠️WARN MESSAGE⚠️*\n\n*USER:* {user}\n*MAX WARNINGS:* {max_warns}\n*REMAINING WARNINGS:* {remaining_warns}\n*REASON:* {reason}"
+  WARN_MESSAGE: "*WARN MESSAGE*\n\n*USER:* {user}\n*MAX WARNINGS:* {max_warns}\n*REMAINING WARNINGS:* {remaining_warns}\n*REASON:* {reason}"
   DEFAULT_REASON: "Breaking group rules."
   SHOW_TRIGGER_IN_REASON: true
   DELETE_WARN_AFTER: 3

@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## 📦 Latest Release
+##  Latest Release
 
 Grab the newest version from the <a href="https://github.com/i-tct/tct/releases/latest">GitHub Releases</a>.
 
@@ -30,10 +30,10 @@ Grab the newest version from the <a href="https://github.com/i-tct/tct/releases/
 
 It provides full control over your WhatsApp automation with:
 
-⚡ High-performance **Rust engine**  
-🌍 **Multi-language support**  
-👥 **Advanced group management**  
-📊 Easy set usage **view dashboard**
+ High-performance **Rust engine**  
+ **Multi-language support**  
+ **Advanced group management**  
+ Easy set usage **view dashboard**
 
 ## Dashboard Preview
 
@@ -124,7 +124,7 @@ It provides full control over your WhatsApp automation with:
 
 ## Quick Start
 
-### 1️⃣ Generate Your Session
+### 1 Generate Your Session
 
 Before deploying, link your WA account.
 
@@ -174,7 +174,7 @@ Run in <strong>PowerShell (Admin)</strong>
 
 <a href="https://t-ct.org/heroku/">Deploy to Heroku</a>
 
-⚠ Edit the <code>formation</code> section in <code>app.json</code> depending on your Heroku plan.
+ Edit the <code>formation</code> section in <code>app.json</code> depending on your Heroku plan.
 
 ---
 
@@ -230,7 +230,7 @@ Run in <strong>PowerShell (Admin)</strong>
 
 <div align="center">
 
-## 💬 Support
+##  Support
 
 <a href="https://t.me/TheCarlTech">Telegram Support</a>
 
@@ -240,7 +240,7 @@ Run in <strong>PowerShell (Admin)</strong>
 
 <div align="center">
 
-## ❤️ Support TCT
+##  Support TCT
 
 If TCT is useful to you and you'd like to support its development:
 
@@ -252,7 +252,7 @@ If TCT is useful to you and you'd like to support its development:
 
 <div align="center">
 
-## ⭐ TCT
+##  TCT
 
 If you like **TCT**, consider starring the repository on GitHub.
 

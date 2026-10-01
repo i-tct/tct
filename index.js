@@ -90,13 +90,13 @@ async function generateConfig() {
   }
 
   if (!found) {
-    console.log("⚠️ No config file found. Downloading default template...");
+    console.log(" No config file found. Downloading default template...");
     try {
       await downloadFile(CONFIG_TEMPLATE_URL, configFile);
       content = fs.readFileSync(configFile, "utf8");
-      console.log("✅ Default config template downloaded.");
+      console.log(" Default config template downloaded.");
     } catch (err) {
-      console.error("❌ Failed to download config template:", err);
+      console.error(" Failed to download config template:", err);
     }
   }
 
