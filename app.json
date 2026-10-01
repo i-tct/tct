@@ -1,9 +1,9 @@
 {
   "name": "TCT",
-  "description": "A fast WA bot built with Go",
+  "description": "A fast WA bot powered by Rust",
   "keywords": [
     "tct",
-    "go",
+    "rust",
     "whatsapp",
     "bot"
   ],
