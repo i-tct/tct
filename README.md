@@ -3,7 +3,7 @@
 # <img src="https://t-ct.org/media/tct.png" alt="TCT Logo" width="80" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/TheCarlTech)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbCTviw8qIzlACm6Cy0t)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp)](https://t-ct.org/s/wa)
 [![Donate](https://img.shields.io/badge/Donate-Support%20TCT-red?style=for-the-badge&logo=heart)](https://t-ct.org/donate/)
 
 <p><strong>A Fast WA Bot Powered by Rust</strong></p>
