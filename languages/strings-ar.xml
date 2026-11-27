@@ -2420,6 +2420,7 @@
     <string name="t_d905714863">حفظ باسم…</string>
     <string name="t_9d91d3f268">التفاف الكلمات</string>
     <string name="t_d08aaa54e8">أرقام الأسطر</string>
+    <string name="t_d75871a69f">وضع القراءة</string>
     <string name="t_7b7b3d66c7">المسافة البادئة التلقائية</string>
     <string name="t_ff6ad92011">الحفظ التلقائي</string>
     <string name="t_118f9b2b30">نص أكبر</string>
@@ -5780,4 +5781,5 @@
     <string name="t_c91490fb1b">التطبيقات الافتراضية</string>
     <string name="t_0ae62965b1">العارضات</string>
     <string name="t_146790352f">ماسح المستندات</string>
+    <string name="t_38938c0d7d">تُفتح الملفات للقراءة: النقر لا يُظهر لوحة المفاتيح. القلم في الأعلى يتيح تعديل الملف.</string>
 </resources>

@@ -2640,6 +2640,7 @@
     <string name="t_d905714863">Save as…</string>
     <string name="t_9d91d3f268">Word wrap</string>
     <string name="t_d08aaa54e8">Line numbers</string>
+    <string name="t_d75871a69f">Reading mode</string>
     <string name="t_7b7b3d66c7">Auto-indent</string>
     <string name="t_ff6ad92011">Autosave</string>
     <string name="t_118f9b2b30">Larger text</string>
@@ -4425,6 +4426,7 @@
     <string name="t_922d1a2877">Defaults cleared</string>
     <string name="t_0ae62965b1">Viewers</string>
     <string name="t_146790352f">Document scanner</string>
+    <string name="t_38938c0d7d">Files open for reading: a tap brings no keyboard. The pencil at the top edits the file.</string>
     <string name="t_f008390f59">Larger files open in the read-only viewer</string>
     <string name="t_203bcdb28c">Tab %d</string>
     <string name="t_4c074c8bcb">autosave on</string>

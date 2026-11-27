@@ -2438,6 +2438,7 @@
     <string name="t_d905714863">Guardar como…</string>
     <string name="t_9d91d3f268">Ajuste de línea</string>
     <string name="t_d08aaa54e8">Números de línea</string>
+    <string name="t_d75871a69f">Modo lectura</string>
     <string name="t_7b7b3d66c7">Sangría automática</string>
     <string name="t_ff6ad92011">Guardado automático</string>
     <string name="t_118f9b2b30">Texto más grande</string>
@@ -4158,6 +4159,7 @@
     <string name="t_922d1a2877">Predeterminados borrados</string>
     <string name="t_0ae62965b1">Visores</string>
     <string name="t_146790352f">Escáner de documentos</string>
+    <string name="t_38938c0d7d">Los archivos se abren para leer: un toque no muestra el teclado. El lápiz de arriba edita el archivo.</string>
     <string name="t_f008390f59">Los archivos más grandes se abren en el visor de solo lectura</string>
     <string name="t_203bcdb28c">Tabulación %d</string>
     <string name="t_4c074c8bcb">guardado automático activado</string>

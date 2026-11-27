@@ -2365,6 +2365,7 @@
     <string name="t_130b03e444">Afficher les modifications</string>
     <string name="t_9d91d3f268">Retour à la ligne</string>
     <string name="t_d08aaa54e8">Numéros de ligne</string>
+    <string name="t_d75871a69f">Mode lecture</string>
     <string name="t_9b19a5a212">Lecture seule</string>
     <string name="t_3cb3806962">Lecture-écriture</string>
     <string name="t_7b7b3d66c7">Indentation automatique</string>
@@ -6124,4 +6125,5 @@
     <string name="t_c91490fb1b">Applications par défaut</string>
     <string name="t_0ae62965b1">Visionneuses</string>
     <string name="t_146790352f">Scanner de documents</string>
+    <string name="t_38938c0d7d">Les fichiers s’ouvrent en lecture : toucher l’écran n’affiche pas le clavier. Le crayon en haut permet de modifier le fichier.</string>
 </resources>
